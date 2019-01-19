@@ -5,6 +5,6 @@
 </head>
 <body>
 
-<img=src"Untitle diagram.jpg">
+<img=src"user case diagram.jpg">
 </body>
 </html>
